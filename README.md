@@ -43,6 +43,10 @@ Software Engineering Principles: Our development process adheres to software eng
 
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/2d0f42d8-5baa-47d6-bcbc-80eb27d7fd5c)
 
+![image](https://github.com/user-attachments/assets/47c629b4-8db8-44b7-84b3-4fa33509cd83)
+
+![image](https://github.com/user-attachments/assets/8fd0d48d-0b78-4702-bbb1-f8e5e7cd2916)
+
 
 In essence, our Online Student Course Registration System is not just a registration tool but a comprehensive solution that incorporates user-centric design, efficient functionality, and a commitment to providing a positive and productive learning experience.
 
